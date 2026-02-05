@@ -631,5 +631,5 @@ En suivant ce plan d'amélioration, vous transformerez votre **excellent projet 
 
 ---
 
-*Plan créé par Antigravity AI Assistant*
-*Date : 4 Février 2026*
+*Auteur: Zakaria Abdelbaki*
+*Date: 5 Février 2026*

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Détection d'Attaques DDoS dans un Environnement IoT
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -16,14 +17,11 @@ Projet de Machine Learning pour la **détection en temps réel d'attaques DDoS**
 - Optimiser les hyperparamètres pour maximiser la précision
 - Fournir un modèle prêt pour le déploiement en production
 
-## 👥 Équipe
+## 👤 Auteur
 
-- **Zakaria Abdelbaki**
-- **Amine Khabot**
-- **Ismail Lahlou**
+**Zakaria Abdelbaki**
 
-**  
-**Date:** Décembre 2025
+**Date:** Décembre 2025 - Février 2026
 
 ## 🏆 Résultats
 
@@ -122,7 +120,7 @@ print("Prédictions:", predictions)
 ## 📁 Structure du Projet
 
 ```
-Zakaria_Abdelbaki_Amine_Khabot_Ismail_Lahlou_4IIR15/
+IoT-DDoS-Guardian/
 │
 ├── Network_dataset.csv                          # Dataset TON_IoT
 ├── Zakaria_Abdelbaki_..._MLProject.ipynb       # Notebook original
@@ -374,3 +372,7 @@ Pour toute question concernant ce projet:
 **⭐ Si ce projet vous a été utile, n'hésitez pas à le partager!**
 
 *Dernière mise à jour: Décembre 2025*
+=======
+# IoT-DDoS-Guardian
+Le projet s'inscrit dans le domaine critique de la **cybersécurité des réseaux IoT (Internet of Things)**. Avec la prolifération des objets connectés, les attaques DDoS (Distributed Denial of Service) représentent une menace majeure pour les infrastructures IoT.
+>>>>>>> da96eea24563ed91e138b4051316ee1bef0b2659

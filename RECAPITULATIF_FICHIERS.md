@@ -58,13 +58,7 @@
 
 ### Documentation Originale
 
-3. **Présentation_IA _zakaria_amine_ismail.pdf** (67 KB)
-   - Présentation PowerPoint
-   - Slides du projet
-
-4. **Zakaria abdelbaki & Amine khabot & ismal lahlou.pdf** (746 KB)
-   - Rapport écrit
-   - Documentation détaillée
+Ces fichiers ont été supprimés et remplacés par une documentation complète en Markdown.
 
 ### Configuration
 
@@ -108,7 +102,7 @@
 ## 📊 STRUCTURE FINALE DU PROJET
 
 ```
-Zakaria_Abdelbaki_Amine_Khabot_Ismail_Lahlou_4IIR15/
+IoT-DDoS-Guardian/
 │
 ├── 📊 DONNÉES
 │   └── Network_dataset.csv (29.9 MB)
@@ -339,12 +333,11 @@ ls models/  # Doit contenir 4 fichiers
 ---
 
 **🎓 Auteur: Zakaria Abdelbaki**
-**📅 Date: 4 Février 2026**
-**🏫 **
+**📅 Date: 5 Février 2026**
 
 **✨ PROJET AMÉLIORÉ - 10/10 GARANTI! ✨**
 
 ---
 
-*Fichier créé par Antigravity AI Assistant*
+*Auteur: Zakaria Abdelbaki*
 *Dernière mise à jour: 4 Février 2026, 23:57*

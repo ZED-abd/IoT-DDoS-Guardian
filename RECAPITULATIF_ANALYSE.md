@@ -1,9 +1,8 @@
 # 📋 RÉCAPITULATIF COMPLET DE L'ANALYSE
 ## Projet IoT-DDoS-Guardian
 
-**Date d'Analyse:** 5 Février 2026  
-**Analyste:** Antigravity AI Assistant  
-**Auteur du Projet:** Zakaria Abdelbaki
+**Date:** 5 Février 2026  
+**Auteur:** Zakaria Abdelbaki
 
 ---
 
@@ -460,8 +459,8 @@ Dans le cadre de cette analyse approfondie, **3 nouveaux documents** ont été c
 **Statut:** Production Ready ✅  
 **Note:** 10/10 ✅
 
-**Analyste:** Antigravity AI Assistant  
-**Date d'Analyse:** 5 Février 2026  
+**Auteur:** Zakaria Abdelbaki  
+**Date:** 5 Février 2026  
 **Version:** 1.0
 
 ---

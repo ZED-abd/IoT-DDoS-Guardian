@@ -13,8 +13,6 @@
 1. **Zakaria_Abdelbaki_Amine_Khabot_Ismail_Lahlou_MLProject.ipynb** - Notebook principal (152 KB)
 2. **Network_dataset.csv** - Dataset TON_IoT (29.9 MB, 211,043 entrées)
 3. **requirements.txt** - Dépendances Python
-4. **Présentation_IA _zakaria_amine_ismail.pdf** - Présentation (67 KB)
-5. **Zakaria abdelbaki & Amine khabot & ismal lahlou.pdf** - Rapport (746 KB)
 
 ---
 

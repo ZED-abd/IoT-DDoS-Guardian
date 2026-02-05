@@ -1185,7 +1185,7 @@ Ce projet illustre parfaitement comment transformer un problème de cybersécuri
 
 ---
 
-**Auteur de l'Analyse:** Antigravity AI Assistant  
+**Auteur:** Zakaria Abdelbaki  
 **Date:** 5 Février 2026  
 **Version:** 1.0  
 

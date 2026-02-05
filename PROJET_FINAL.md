@@ -36,10 +36,8 @@ Décembre 2025 - Février 2026
 
 Les fichiers suivants ont été supprimés car non nécessaires :
 
-- ❌ `Présentation_IA _zakaria_amine_ismail.pdf`
-- ❌ `Zakaria abdelbaki & Amine khabot & ismal lahlou.pdf`
-- ❌ `requirements.txt` (remplacé par requirements_improved.txt)
-- ❌ `Zakaria_Abdelbaki_Amine_Khabot_Ismail_Lahlou_MLProject.ipynb` (remplacé par le script Python)
+- ❌ Scripts de renommage (obsolètes)
+- ❌ Fichiers temporaires de documentation
 
 ---
 
